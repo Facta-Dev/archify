@@ -1,0 +1,11 @@
+[    1389ms] Error: Minified React error #62; visit https://reactjs.org/docs/error-decoder.html?invariant=62 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at xe (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:26056)
+    at Qs (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:97027)
+    at Eu (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:119712)
+    at xu (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:119452)
+    at wu (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:119319)
+    at bu (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:119182)
+    at lu (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:116017)
+    at su (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:114573)
+    at S (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:8977)
+    at MessagePort.R (http://localhost:8741/assets/js/vendor-react-CLg5T8yq.js:1:9509)

@@ -1,0 +1,192 @@
+[   10756ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:21608
+[   11693ms] [ERROR] The above error occurred in the <div> component:
+
+    at div
+    at section
+    at div
+    at div
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx:24:17)
+    at RenderedRoute (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:6647:26)
+    at Routes (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7572:3)
+    at Suspense
+    at main
+    at div
+    at Layout (http://localhost:8742/src/components/Layout.jsx:28:19)
+    at Router (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7511:13)
+    at BrowserRouter (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:10816:3)
+    at App (http://localhost:8742/src/App.jsx:1425:3)
+    at _HelmetProvider (http://localhost:8742/node_modules/.vite/deps/react-helmet-async.js?v=c5d2915e:624:5)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14079
+[   11694ms] [ERROR] The above error occurred in the <div> component:
+
+    at div
+    at section
+    at div
+    at div
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx:24:17)
+    at RenderedRoute (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:6647:26)
+    at Routes (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7572:3)
+    at Suspense
+    at main
+    at div
+    at Layout (http://localhost:8742/src/components/Layout.jsx:28:19)
+    at Router (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7511:13)
+    at BrowserRouter (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:10816:3)
+    at App (http://localhost:8742/src/App.jsx:1425:3)
+    at _HelmetProvider (http://localhost:8742/node_modules/.vite/deps/react-helmet-async.js?v=c5d2915e:624:5)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14079
+[   11694ms] [ERROR] The above error occurred in the <div> component:
+
+    at div
+    at section
+    at div
+    at div
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx:24:17)
+    at RenderedRoute (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:6647:26)
+    at Routes (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7572:3)
+    at Suspense
+    at main
+    at div
+    at Layout (http://localhost:8742/src/components/Layout.jsx:28:19)
+    at Router (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7511:13)
+    at BrowserRouter (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:10816:3)
+    at App (http://localhost:8742/src/App.jsx:1425:3)
+    at _HelmetProvider (http://localhost:8742/node_modules/.vite/deps/react-helmet-async.js?v=c5d2915e:624:5)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14079
+[   11696ms] Error: The `style` prop expects a mapping from style properties to values, not a string. For example, style={{marginRight: spacing + 'em'}} when using JSX.
+    at assertValidProps (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:2707:19)
+    at setInitialProperties (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:7626:11)
+    at finalizeInitialChildren (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:8392:11)
+    at completeWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:16341:23)
+    at completeUnitOfWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19277:24)
+    at performUnitOfWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19259:13)
+    at workLoopSync (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19190:13)
+    at renderRootSync (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19169:15)
+    at recoverFromConcurrentError (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:18786:28)
+    at performConcurrentWorkOnRoot (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:18734:30)
+[   47350ms] [ERROR] The above error occurred in the <div> component:
+
+    at div
+    at section
+    at div
+    at div
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx?t=1792299222674:36:17)
+    at RenderedRoute (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:6647:26)
+    at Routes (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7572:3)
+    at Suspense
+    at main
+    at div
+    at Layout (http://localhost:8742/src/components/Layout.jsx:28:19)
+    at Router (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7511:13)
+    at BrowserRouter (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:10816:3)
+    at App (http://localhost:8742/src/App.jsx:1425:3)
+    at _HelmetProvider (http://localhost:8742/node_modules/.vite/deps/react-helmet-async.js?v=c5d2915e:624:5)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14079
+[   47350ms] [ERROR] The above error occurred in the <div> component:
+
+    at div
+    at section
+    at div
+    at div
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx?t=1792299222674:36:17)
+    at RenderedRoute (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:6647:26)
+    at Routes (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7572:3)
+    at Suspense
+    at main
+    at div
+    at Layout (http://localhost:8742/src/components/Layout.jsx:28:19)
+    at Router (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7511:13)
+    at BrowserRouter (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:10816:3)
+    at App (http://localhost:8742/src/App.jsx:1425:3)
+    at _HelmetProvider (http://localhost:8742/node_modules/.vite/deps/react-helmet-async.js?v=c5d2915e:624:5)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14079
+[   47350ms] [ERROR] The above error occurred in the <div> component:
+
+    at div
+    at section
+    at div
+    at div
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx?t=1792299222674:36:17)
+    at RenderedRoute (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:6647:26)
+    at Routes (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7572:3)
+    at Suspense
+    at main
+    at div
+    at Layout (http://localhost:8742/src/components/Layout.jsx:28:19)
+    at Router (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7511:13)
+    at BrowserRouter (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:10816:3)
+    at App (http://localhost:8742/src/App.jsx:1425:3)
+    at _HelmetProvider (http://localhost:8742/node_modules/.vite/deps/react-helmet-async.js?v=c5d2915e:624:5)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14079
+[   47352ms] Error: The `style` prop expects a mapping from style properties to values, not a string. For example, style={{marginRight: spacing + 'em'}} when using JSX.
+    at assertValidProps (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:2707:19)
+    at setInitialProperties (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:7626:11)
+    at finalizeInitialChildren (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:8392:11)
+    at completeWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:16341:23)
+    at completeUnitOfWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19277:24)
+    at performUnitOfWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19259:13)
+    at workLoopSync (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19190:13)
+    at renderRootSync (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19169:15)
+    at recoverFromConcurrentError (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:18786:28)
+    at performSyncWorkOnRoot (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:18932:28)
+[  185583ms] ReferenceError: useNavigate is not defined
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx?t=1792299360986:37:20)
+    at renderWithHooks (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:11596:26)
+    at mountIndeterminateComponent (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14974:21)
+    at beginWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:15962:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:3680:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:3705:24)
+    at invokeGuardedCallback (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:3739:39)
+    at beginWork$1 (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19818:15)
+    at performUnitOfWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19251:20)
+    at workLoopSync (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19190:13)
+[  185593ms] ReferenceError: useNavigate is not defined
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx?t=1792299360986:37:20)
+    at renderWithHooks (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:11596:26)
+    at mountIndeterminateComponent (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14974:21)
+    at beginWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:15962:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:3680:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:3705:24)
+    at invokeGuardedCallback (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:3739:39)
+    at beginWork$1 (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19818:15)
+    at performUnitOfWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19251:20)
+    at workLoopSync (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19190:13)
+[  185598ms] [ERROR] The above error occurred in the <InvestorDeckPage> component:
+
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx?t=1792299360986:36:17)
+    at RenderedRoute (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:6647:26)
+    at Routes (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7572:3)
+    at Suspense
+    at main
+    at div
+    at Layout (http://localhost:8742/src/components/Layout.jsx:28:19)
+    at Router (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:7511:13)
+    at BrowserRouter (http://localhost:8742/node_modules/.vite/deps/react-router-dom.js?v=c5d2915e:10816:3)
+    at App (http://localhost:8742/src/App.jsx:1425:3)
+    at _HelmetProvider (http://localhost:8742/node_modules/.vite/deps/react-helmet-async.js?v=c5d2915e:624:5)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14079
+[  185614ms] ReferenceError: useNavigate is not defined
+    at InvestorDeckPage (http://localhost:8742/src/components/InvestorDeckPage.jsx?t=1792299360986:37:20)
+    at renderWithHooks (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:11596:26)
+    at mountIndeterminateComponent (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:14974:21)
+    at beginWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:15962:22)
+    at beginWork$1 (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19806:22)
+    at performUnitOfWork (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19251:20)
+    at workLoopSync (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19190:13)
+    at renderRootSync (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:19169:15)
+    at recoverFromConcurrentError (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:18786:28)
+    at performSyncWorkOnRoot (http://localhost:8742/node_modules/.vite/deps/chunk-TL6SWKMI.js?v=c5d2915e:18932:28)

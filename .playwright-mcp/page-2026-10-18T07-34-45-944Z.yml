@@ -1,0 +1,116 @@
+- generic [ref=f4e1]:
+  - alert [ref=f4e3]:
+    - generic [ref=f4e5]:
+      - text: Projects will not be saved permanently when you aren’t signed in. To avoid losing your projects, sign into your account.
+      - generic [ref=f4e6] [cursor=pointer]: Sign in
+    - button [ref=f4e7] [cursor=pointer]
+  - generic [ref=f4e12]:
+    - generic [ref=f4e14]:
+      - generic [ref=f4e15]:
+        - generic [ref=f4e17] [cursor=pointer]
+        - generic [ref=f4e20]:
+          - menu [ref=f4e22]:
+            - generic [ref=f4e23]:
+              - menuitem "Media" [ref=f4e24] [cursor=pointer]
+              - menuitem "Templates" [ref=f4e32] [cursor=pointer]
+              - menuitem "Elements" [ref=f4e38] [cursor=pointer]
+              - menuitem "Audio" [ref=f4e44] [cursor=pointer]
+              - menuitem "Text" [ref=f4e50] [cursor=pointer]
+              - menuitem "Captions" [ref=f4e56] [cursor=pointer]
+              - menuitem "Transcript" [ref=f4e63] [cursor=pointer]
+              - menuitem "Effects" [ref=f4e69] [cursor=pointer]
+              - menuitem "Transitions" [ref=f4e75] [cursor=pointer]
+              - menuitem "Filters" [ref=f4e81] [cursor=pointer]
+              - menuitem "Brand kit" [ref=f4e87] [cursor=pointer]:
+                - generic [ref=f4e88]:
+                  - generic [ref=f4e94]: Brand
+                  - generic [ref=f4e95]: kit
+              - menuitem "Plugins" [ref=f4e98] [cursor=pointer]
+          - generic [ref=f4e104] [cursor=pointer]
+        - button [ref=f4e109] [cursor=pointer]
+      - generic [ref=f4e116]:
+        - generic [ref=f4e117]: Sign in to upload items
+        - region "Video" [ref=f4e127]:
+          - generic: Drop your image here to upload
+          - generic [ref=f4e129]:
+            - heading "What do you want to create?" [level=2] [ref=f4e131]
+            - generic [ref=f4e133]:
+              - textbox [ref=f4e137]:
+                - paragraph [ref=f4e138]: Describe your video. Add images, videos, or audio for reference.
+              - generic [ref=f4e139]:
+                - button "Upload media as reference" [disabled] [ref=f4e142]
+                - button "Video" [disabled] [ref=f4e147]
+                - button "Choose model" [disabled] [ref=f4e153]
+                - button "Generate" [disabled] [ref=f4e159]
+          - tablist "Uploads, Generated" [ref=f4e163]:
+            - tab "Uploads" [selected] [ref=f4e164] [cursor=pointer]
+            - tab "Generated" [ref=f4e165] [cursor=pointer]
+          - tabpanel "Empty media assets" [ref=f4e168]:
+            - button "Upload" [ref=f4e170] [cursor=pointer]:
+              - strong [ref=f4e173]: Upload
+              - generic [ref=f4e174]: or drop your media here
+            - generic [ref=f4e175]:
+              - paragraph [ref=f4e178]: You can also upload from
+              - group "Other import methods" [ref=f4e180]:
+                - generic [ref=f4e181]:
+                  - button "Upload from phone" [disabled]
+                - button "Dropbox" [ref=f4e182] [cursor=pointer]
+                - button "Google Drive" [ref=f4e185] [cursor=pointer]
+      - generic [ref=f4e190] [cursor=pointer]
+    - generic [ref=f4e195]:
+      - generic [ref=f4e196]:
+        - generic [ref=f4e200] [cursor=pointer]
+        - generic [ref=f4e204]: 100%
+        - generic [ref=f4e238]:
+          - button "Export" [ref=f4e241]
+          - generic [ref=f4e253] [cursor=pointer]
+          - generic [ref=f4e265] [cursor=pointer]
+        - generic:
+          - generic: 100%
+          - generic:
+            - generic:
+              - button "Export"
+      - generic [ref=f4e270]:
+        - generic [ref=f4e273]:
+          - generic [ref=f4e276]:
+            - generic [ref=f4e278]:
+              - generic [ref=f4e279] [cursor=pointer]
+              - paragraph [ref=f4e281]: Click to upload
+              - paragraph [ref=f4e282]: Or drag and drop file here
+            - generic [ref=f4e284]:
+              - generic [ref=f4e285] [cursor=pointer]
+              - generic [ref=f4e288] [cursor=pointer]
+          - main [ref=f4e291]
+        - generic [ref=f4e307]:
+          - generic [ref=f4e308]: 00:00:00
+          - generic [ref=f4e310]: 00:00:00
+  - generic [ref=f4e335]:
+    - generic [ref=f4e341]:
+      - generic [ref=f4e342]:
+        - heading "Welcome to CapCut" [level=2] [ref=f4e343]
+        - generic [ref=f4e344]: Continue with Google
+        - generic [ref=f4e357]: Continue with email
+        - generic [ref=f4e362]: Continue with TikTok
+        - generic [ref=f4e371]: Continue with Facebook
+        - generic [ref=f4e378] [cursor=pointer]: Continue with CapCut Mobile
+      - generic [ref=f4e382]:
+        - text: By clicking Continue, you accept our
+        - link "Terms of Service" [active] [ref=f4e383] [cursor=pointer]:
+          - /url: /clause/terms-of-service?store_region=ar&lang=en
+        - text: and
+        - link "Privacy Policy" [ref=f4e384] [cursor=pointer]:
+          - /url: /clause/privacy-policy?store_region=ar&lang=en
+    - img [ref=f4e385] [cursor=pointer]
+  - dialog [ref=f4e396]:
+    - generic [ref=f4e401]:
+      - generic [ref=f4e402]: CapCut Pro
+      - generic [ref=f4e403]: Start your first month of Pro for just - and unlock unlimited access to all Pro features.
+    - button "Learn more" [ref=f4e406] [cursor=pointer]
+    - button "Close" [ref=f4e407] [cursor=pointer]
+  - generic [ref=f4e411]:
+    - generic [ref=f4e412] [cursor=pointer]
+    - generic [ref=f4e415]: Material resources
+    - generic [ref=f4e416]: You can upload your own media or use the materials we provide.
+    - generic [ref=f4e417]:
+      - generic [ref=f4e418]: 1/2
+      - button "Next" [ref=f4e420] [cursor=pointer]

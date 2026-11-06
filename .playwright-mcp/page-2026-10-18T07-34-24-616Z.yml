@@ -1,0 +1,983 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - region "Announcements" [ref=e4]:
+      - generic [ref=e6]:
+        - 'link "12 : 20 : 24 : 36 Claim your Black Friday deal on CapCut Desktop—limited spots!" [ref=e7] [cursor=pointer]':
+          - /url: https://www.capcut.com/tools/capcut-black-friday-sale
+          - generic [ref=e8]:
+            - generic [ref=e9]: "12"
+            - generic [ref=e10]: ":"
+            - generic [ref=e11]: "20"
+            - generic [ref=e12]: ":"
+            - generic [ref=e13]: "24"
+            - generic [ref=e14]: ":"
+            - generic [ref=e15]: "36"
+          - generic [ref=e16]: Claim your Black Friday deal on CapCut Desktop—limited spots!
+        - button "Close announcements" [ref=e19] [cursor=pointer]
+    - banner [ref=e22]:
+      - generic [ref=e24]:
+        - navigation [ref=e28]:
+          - list [ref=e29]:
+            - listitem [ref=e30]:
+              - generic [ref=e31] [cursor=pointer]: Products
+              - navigation:
+                - list [ref=e34]:
+                  - listitem [ref=e35]:
+                    - link [ref=e36] [cursor=pointer]:
+                      - /url: https://www.capcut.com/tools/desktop-video-editor
+                      - paragraph [ref=e37]:
+                        - img "CapCut Desktop" [ref=e38]
+                      - paragraph [ref=e39]: CapCut Desktop
+                      - paragraph [ref=e42]: Powerful editing tool
+                  - listitem [ref=e43]:
+                    - link [ref=e44] [cursor=pointer]:
+                      - /url: https://www.capcut.com/creative-suite
+                      - paragraph [ref=e45]:
+                        - img "CapCut Online" [ref=e46]
+                      - paragraph [ref=e47]: CapCut Online
+                      - paragraph [ref=e50]: Online video editor
+                  - listitem [ref=e51]:
+                    - link [ref=e52] [cursor=pointer]:
+                      - /url: https://capcutpad.onelink.me/fNG5/vlcsovk6?utm_medium=CapCut
+                      - paragraph [ref=e53]:
+                        - img "CapCut Pad" [ref=e54]
+                      - paragraph [ref=e55]: CapCut Pad
+                      - paragraph [ref=e58]: Edit anywhere, anytime
+                  - listitem [ref=e59]:
+                    - link [ref=e60] [cursor=pointer]:
+                      - /url: https://www.capcut.com/tools/capcut-apk-latest-version-android-download
+                      - paragraph [ref=e61]:
+                        - img "CapCut Mobile" [ref=e62]
+                      - paragraph [ref=e63]: CapCut Mobile
+                      - paragraph [ref=e66]: Unlimited templates
+                  - listitem [ref=e67]:
+                    - link [ref=e68] [cursor=pointer]:
+                      - /url: https://www.capcut.com/tools/capcut-x-codex
+                      - paragraph [ref=e69]:
+                        - img "Plugin" [ref=e70]
+                      - paragraph [ref=e71]: Plugin
+                      - paragraph [ref=e74]: CapCut × Codex
+                  - listitem [ref=e75]:
+                    - link [ref=e76] [cursor=pointer]:
+                      - /url: https://dreamina.capcut.com/?utm_medium=CapCut
+                      - paragraph [ref=e77]:
+                        - img "Dreamina AI" [ref=e78]
+                      - paragraph [ref=e79]: Dreamina AI
+                      - paragraph [ref=e82]: Image & video maker
+                  - listitem [ref=e83]:
+                    - link [ref=e84] [cursor=pointer]:
+                      - /url: https://pippit.ai/?utm_medium=CapCut
+                      - paragraph [ref=e85]:
+                        - img "Pippit AI" [ref=e86]
+                      - paragraph [ref=e87]: Pippit AI
+                      - paragraph [ref=e90]: Smart creative agent
+                  - listitem [ref=e91]:
+                    - link [ref=e92] [cursor=pointer]:
+                      - /url: https://hypic.capcut.com/?utm_medium=CapCut
+                      - paragraph [ref=e93]:
+                        - img "Hypic" [ref=e94]
+                      - paragraph [ref=e95]: Hypic
+                      - paragraph [ref=e98]: AI photo editor
+            - listitem [ref=e99]:
+              - generic [ref=e100] [cursor=pointer]: Features
+              - navigation:
+                - list [ref=e103]:
+                  - listitem [ref=e104]:
+                    - list [ref=e105]:
+                      - listitem [ref=e106]: AI creation
+                      - listitem [ref=e107]:
+                        - link "AI Design" [ref=e108] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-design
+                      - listitem [ref=e110]:
+                        - link "Video Studio" [ref=e111] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-video-generator
+                      - listitem [ref=e113]:
+                        - link "AI video generator" [ref=e114] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-video-generator
+                      - listitem [ref=e116]:
+                        - link "AI image generator" [ref=e117] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-image-generator
+                      - listitem [ref=e119]:
+                        - link "AI image enhancer" [ref=e120] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-image-upscaler
+                      - listitem [ref=e122]:
+                        - link "Dreamina Seedance 2.5" [ref=e123] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-video-generator
+                      - listitem [ref=e125]:
+                        - link "Nano Banana Pro" [ref=e126] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/nano-banana-pro
+                      - listitem [ref=e128]:
+                        - link "Gemini Omni" [ref=e129] [cursor=pointer]:
+                          - /url: https://tools.capcut.com/tools/gemini-omni?utm_medium=CapCut
+                  - listitem [ref=e131]:
+                    - list [ref=e132]:
+                      - listitem [ref=e133]: Text & Audio
+                      - listitem [ref=e134]:
+                        - link "Auto captions" [ref=e135] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-caption-generator
+                      - listitem [ref=e137]:
+                        - link "Caption templates" [ref=e138] [cursor=pointer]:
+                          - /url: https://www.capcut.com/resource/caption-template
+                      - listitem [ref=e140]:
+                        - link "Speech recognition" [ref=e141] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/convert-sound-to-text
+                      - listitem [ref=e143]:
+                        - link "Text to speech" [ref=e144] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/text-to-speech
+                      - listitem [ref=e146]:
+                        - link "Custom voices" [ref=e147] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-voice-over
+                      - listitem [ref=e149]:
+                        - link "Enhance voice" [ref=e150] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/voice-enhancer
+                      - listitem [ref=e152]:
+                        - link "Reduce noise" [ref=e153] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/remove-background-noise-from-audio
+                  - listitem [ref=e155]:
+                    - list [ref=e156]:
+                      - listitem [ref=e157]: Image
+                      - listitem [ref=e158]:
+                        - link "Remove image BG" [ref=e159] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/image-background-remover
+                      - listitem [ref=e161]:
+                        - link "Image merge" [ref=e162] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-image-combiner
+                      - listitem [ref=e164]:
+                        - link "Image Enhancer" [ref=e165] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/image-resolution-enhancer
+                      - listitem [ref=e167]:
+                        - link "Resize Image" [ref=e168] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/online-image-resizer
+                      - listitem [ref=e170]:
+                        - link "Online Photo Editor" [ref=e171] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/online-photo-editor
+                      - listitem [ref=e173]:
+                        - link "Meme Generator" [ref=e174] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/meme-generator
+                      - listitem [ref=e176]:
+                        - link "AI Text Remover" [ref=e177] [cursor=pointer]:
+                          - /url: https://www.capcut.com/create/ai-text-remover
+                      - listitem [ref=e179]:
+                        - link "AI People Remover" [ref=e180] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-people-remover
+                      - listitem [ref=e182]:
+                        - link "AI Inpainting" [ref=e183] [cursor=pointer]:
+                          - /url: https://www.capcut.com/create/image-inpainting
+                      - listitem [ref=e185]:
+                        - link "Face Cutout" [ref=e186] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/face-cutout
+                  - listitem [ref=e188]:
+                    - list [ref=e189]:
+                      - listitem [ref=e190]: Video
+                      - listitem [ref=e191]:
+                        - link "Remove video BG" [ref=e192] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/video-background-remover
+                      - listitem [ref=e194]:
+                        - link "Enhance quality" [ref=e195] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-video-enhancer
+                      - listitem [ref=e197]:
+                        - link "Video Editor" [ref=e198] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/online-video-editor
+                      - listitem [ref=e200]:
+                        - link "Trim Video" [ref=e201] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-video-editor
+                      - listitem [ref=e203]:
+                        - link "Add Subtitles To Video" [ref=e204] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/add-subtitles-to-video
+                      - listitem [ref=e206]:
+                        - link "Video Converter" [ref=e207] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/online-video-converter
+                  - listitem [ref=e209]:
+                    - link "Seedream 5.0" [ref=e210] [cursor=pointer]:
+                      - /url: https://www.capcut.com/tools/seedream-5-0
+                      - paragraph [ref=e212]:
+                        - generic [ref=e213]: Seedream 5.0
+            - listitem [ref=e216]:
+              - generic [ref=e217] [cursor=pointer]: Blog
+              - navigation:
+                - list [ref=e220]:
+                  - listitem [ref=e221]:
+                    - list [ref=e222]:
+                      - listitem [ref=e223]: Features
+                      - listitem [ref=e224]:
+                        - link "AI tools" [ref=e225] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/ai-tools
+                      - listitem [ref=e227]:
+                        - link "Video editor & generator" [ref=e228] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/video
+                      - listitem [ref=e230]:
+                        - link "Image editor & generator" [ref=e231] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/image
+                      - listitem [ref=e233]:
+                        - link "Voice generator & editor" [ref=e234] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools/audio
+                      - listitem [ref=e236]:
+                        - link "More" [ref=e237] [cursor=pointer]:
+                          - /url: https://www.capcut.com/tools
+                  - listitem [ref=e239]:
+                    - list [ref=e240]:
+                      - listitem [ref=e241]: Use cases
+                      - listitem [ref=e242]:
+                        - link "Social media" [ref=e243] [cursor=pointer]:
+                          - /url: https://www.capcut.com/create/social-media
+                      - listitem [ref=e245]:
+                        - link "Marketing" [ref=e246] [cursor=pointer]:
+                          - /url: https://www.capcut.com/create/marketing
+                      - listitem [ref=e248]:
+                        - link "Lifestyle & Vlogs" [ref=e249] [cursor=pointer]:
+                          - /url: https://www.capcut.com/create/lifestyle
+                      - listitem [ref=e251]:
+                        - link "Custom design" [ref=e252] [cursor=pointer]:
+                          - /url: https://www.capcut.com/create/diy-design
+                      - listitem [ref=e254]:
+                        - link "More" [ref=e255] [cursor=pointer]:
+                          - /url: https://www.capcut.com/create
+                  - listitem [ref=e257]:
+                    - list [ref=e258]:
+                      - listitem [ref=e259]: Resources
+                      - listitem [ref=e260]:
+                        - link "How-to guides" [ref=e261] [cursor=pointer]:
+                          - /url: https://www.capcut.com/resource/howto-guides
+                      - listitem [ref=e263]:
+                        - link "Market Trends" [ref=e264] [cursor=pointer]:
+                          - /url: https://www.capcut.com/resource/new-release
+                      - listitem [ref=e266]:
+                        - link "Top Picks" [ref=e267] [cursor=pointer]:
+                          - /url: https://www.capcut.com/resource/top-lists
+                      - listitem [ref=e269]:
+                        - link "Template trends & tips" [ref=e270] [cursor=pointer]:
+                          - /url: https://www.capcut.com/resource/hot-templates
+                      - listitem [ref=e272]:
+                        - link "More" [ref=e273] [cursor=pointer]:
+                          - /url: https://www.capcut.com/resource
+            - listitem [ref=e275]:
+              - generic [ref=e276] [cursor=pointer]: Templates
+              - navigation:
+                - list [ref=e279]:
+                  - listitem [ref=e280]:
+                    - list [ref=e281]:
+                      - listitem [ref=e282]:
+                        - link "Social media templates" [ref=e283] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template/social
+                      - listitem [ref=e285]:
+                        - link "Holiday templates" [ref=e286] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template/holiday
+                      - listitem [ref=e288]:
+                        - link "More" [ref=e289] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template
+                  - listitem [ref=e291]:
+                    - list [ref=e292]:
+                      - listitem [ref=e293]:
+                        - link "Calendar templates" [ref=e294] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template/calendar
+                      - listitem [ref=e296]:
+                        - link "Anniversary templates" [ref=e297] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template/anniversary
+                  - listitem [ref=e299]:
+                    - list [ref=e300]:
+                      - listitem [ref=e301]:
+                        - link "Effects templates" [ref=e302] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template/effects
+                      - listitem [ref=e304]:
+                        - link "Business templates" [ref=e305] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template/business
+                  - listitem [ref=e307]:
+                    - list [ref=e308]:
+                      - listitem [ref=e309]:
+                        - link "Industry templates" [ref=e310] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template/industry
+                      - listitem [ref=e312]:
+                        - link "Recap templates" [ref=e313] [cursor=pointer]:
+                          - /url: https://www.capcut.com/template/record
+            - listitem [ref=e315]:
+              - generic [ref=e316] [cursor=pointer]: Discover
+              - navigation:
+                - list [ref=e319]:
+                  - listitem [ref=e320]:
+                    - list [ref=e321]:
+                      - listitem [ref=e322]: About
+                      - listitem [ref=e323]:
+                        - link "Community" [ref=e324] [cursor=pointer]:
+                          - /url: https://discord.com/invite/UGkTx28Eqh?utm_medium=CapCut
+                  - listitem [ref=e326]:
+                    - list [ref=e327]:
+                      - listitem [ref=e328]: Initiatives
+                      - listitem [ref=e329]:
+                        - link "Affiliates" [ref=e330] [cursor=pointer]:
+                          - /url: https://www.capcut.com/partners/affiliate-program
+                      - listitem [ref=e332]:
+                        - link "Pioneer Program" [ref=e333] [cursor=pointer]:
+                          - /url: https://www.capcut.com/newsroom/pioneer-program
+                      - listitem [ref=e335]:
+                        - link "Creative Partner Program" [ref=e336] [cursor=pointer]:
+                          - /url: https://www.capcut.com/newsroom/capcut-creative-partner-program
+                      - listitem [ref=e338]:
+                        - link "CapCut Creative Campus" [ref=e339] [cursor=pointer]:
+                          - /url: https://www.capcut.com/newsroom/capcut-creative-campus
+                  - listitem [ref=e341]:
+                    - list [ref=e342]:
+                      - listitem [ref=e343]: Help
+                      - listitem [ref=e344]:
+                        - link "Trust Center" [ref=e345] [cursor=pointer]:
+                          - /url: https://www.capcut.com/trust
+                      - listitem [ref=e347]:
+                        - link "Help Center" [ref=e348] [cursor=pointer]:
+                          - /url: https://www.capcut.com/help
+                  - listitem [ref=e350]:
+                    - list [ref=e351]:
+                      - listitem [ref=e352]: Newsroom
+                      - listitem [ref=e353]:
+                        - link "About CapCut's Terms of Service" [ref=e354] [cursor=pointer]:
+                          - /url: https://www.capcut.com/resource/about-capcut-terms-of-service
+                      - listitem [ref=e356]:
+                        - link "Dreamina Seedance 2.0 Launch" [ref=e357] [cursor=pointer]:
+                          - /url: https://www.capcut.com/newsroom/dreamina-seedance-2
+                      - listitem [ref=e359]:
+                        - link "Capcut World Singapore" [ref=e360] [cursor=pointer]:
+                          - /url: https://www.capcut.com/newsroom/capcut-world-singapore
+            - listitem [ref=e362]:
+              - link "Pricing" [ref=e363] [cursor=pointer]:
+                - /url: https://www.capcut.com/pricing
+        - list [ref=e364]:
+          - listitem [ref=e365]:
+            - button "English" [ref=e366] [cursor=pointer]
+          - listitem [ref=e369]:
+            - button "Try online" [ref=e370] [cursor=pointer]
+          - listitem [ref=e371]:
+            - button "Download" [ref=e372] [cursor=pointer]
+  - main [ref=e373]:
+    - generic [ref=e375]:
+      - heading "AI-Powered Photo Photo & Video Video Editor for Everyone" [level=1] [ref=e376]:
+        - text: AI-Powered
+        - generic [ref=e377]:
+          - generic [ref=e378] [cursor=pointer]:
+            - generic [ref=e379]: Photo
+            - link [ref=e380]:
+              - /url: https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-design-home&lang=en
+              - img "Photo" [ref=e382]
+          - text: "&"
+          - generic [ref=e383] [cursor=pointer]:
+            - generic [ref=e384]: Video
+            - link [ref=e385]:
+              - /url: https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-creator%2Fstart&lang=en
+              - img "Video" [ref=e387]
+        - text: Editorfor Everyone
+      - paragraph [ref=e388]: CapCut has everything you need to create trending content for YouTube, Instagram, and beyond.
+      - paragraph [ref=e389]:
+        - button "Try online for free" [ref=e390] [cursor=pointer]
+        - button "Download" [ref=e391] [cursor=pointer]
+      - paragraph [ref=e393]: No credit card required
+    - generic [ref=e396]:
+      - heading "Smart Editor & Generator" [level=2] [ref=e397]
+      - list [ref=e398] [cursor=pointer]:
+        - listitem [ref=e399]:
+          - link [ref=e400]:
+            - /url: https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-design-home&lang=en
+            - paragraph [ref=e403]: Create professional designs with AI online. Generate layouts for social media posts, covers, and marketing materials automatically—easy and free.
+        - listitem:
+          - link "A quick chat with CapCut's AI video editor and it'll build a video from scratch, style, avatar, everything.":
+            - /url: https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-creator%2Fagent&lang=en
+            - generic:
+              - paragraph: A quick chat with CapCut's AI video editor and it'll build a video from scratch, style, avatar, everything.
+        - listitem:
+          - link "Turn text or reference images into custom, stunning visuals with CapCut's powerful online photo editor.":
+            - /url: https://www.capcut.com/activity/download_pc
+            - generic:
+              - paragraph: Turn text or reference images into custom, stunning visuals with CapCut's powerful online photo editor.
+        - listitem:
+          - link "Turn text, images, or keyframes into videos with the smartest online video editor you've ever used.":
+            - /url: https://www.capcut.com/activity/download_pc
+            - generic:
+              - paragraph: Turn text, images, or keyframes into videos with the smartest online video editor you've ever used.
+        - listitem:
+          - link "Convert text to speech with AI using natural-sounding voices. Perfect for narration, videos, podcasts, and professional content.":
+            - /url: https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fmagic-tools%2Ftext-to-speech&lang=en
+            - generic:
+              - paragraph: Convert text to speech with AI using natural-sounding voices. Perfect for narration, videos, podcasts, and professional content.
+      - list [ref=e404] [cursor=pointer]:
+        - listitem [ref=e405]:
+          - link "AI Design" [ref=e406]:
+            - /url: https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-design-home&lang=en
+        - listitem [ref=e408]:
+          - link "Video Studio" [ref=e409]:
+            - /url: https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-creator%2Fagent&lang=en
+        - listitem [ref=e411]:
+          - link "AI image generator" [ref=e412]:
+            - /url: https://www.capcut.com/activity/download_pc
+        - listitem [ref=e414]:
+          - link "AI video generator" [ref=e415]:
+            - /url: https://www.capcut.com/activity/download_pc
+        - listitem [ref=e417]:
+          - link "Text to Speech" [ref=e418]:
+            - /url: https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fmagic-tools%2Ftext-to-speech&lang=en
+    - generic [ref=e425]:
+      - generic [ref=e426]:
+        - generic [ref=e427]:
+          - heading "AI Editing Tools" [level=2] [ref=e428]
+          - paragraph [ref=e429]: The reliable and essential AI editing features from CapCut for text, audio, and video.
+        - button "Try online" [ref=e430] [cursor=pointer]
+      - list [ref=e431]:
+        - listitem [ref=e432]:
+          - generic [ref=e433]: "01"
+          - generic [ref=e434]:
+            - generic [ref=e435]:
+              - heading "Image" [level=3] [ref=e436]
+              - list [ref=e437]:
+                - listitem [ref=e438]:
+                  - heading [level=4] [ref=e439]:
+                    - link "Background Remover" [ref=e440] [cursor=pointer]:
+                      - /url: https://www.capcut.com/tools/image-background-remover
+                  - paragraph [ref=e441]:
+                    - generic [ref=e442]:
+                      - link "Remove image backgrounds" [ref=e443] [cursor=pointer]:
+                        - /url: https://www.capcut.com/tools/image-background-remover
+                      - text: instantly with AI in one click. No watermark required—perfect for product photos, portraits, and social media content.
+                - listitem [ref=e444] [cursor=pointer]:
+                  - heading "Image Enhancer" [level=4] [ref=e445]:
+                    - link "Image Enhancer":
+                      - /url: https://www.capcut.com/tools/image-resolution-enhancer
+                  - paragraph:
+                    - generic [ref=e446]:
+                      - link "Enhance photo quality and resolution" [ref=e447]:
+                        - /url: https://www.capcut.com/tools/image-resolution-enhancer
+                      - text: with AI. Turn everyday images into sharp, high-quality visuals ready for social media, marketing, or professional use.
+                - listitem [ref=e448] [cursor=pointer]:
+                  - heading "Image Resizer" [level=4] [ref=e449]:
+                    - link "Image Resizer":
+                      - /url: https://www.capcut.com/tools/online-image-resizer
+                  - paragraph:
+                    - generic [ref=e450]:
+                      - link "Resize images online" [ref=e451]:
+                        - /url: https://www.capcut.com/tools/online-image-resizer
+                      - text: for free with AI. Adjust dimensions and aspect ratios quickly for social media, websites, ads, and digital content.
+                - listitem [ref=e452] [cursor=pointer]:
+                  - heading "Photo Editor" [level=4] [ref=e453]:
+                    - link "Photo Editor":
+                      - /url: https://www.capcut.com/tools/online-photo-editor
+                  - paragraph:
+                    - generic [ref=e454]:
+                      - link "Edit photos online" [ref=e455]:
+                        - /url: https://www.capcut.com/tools/online-photo-editor
+                      - text: for free with smart cropping, filters, and advanced effects—no downloads needed, directly in your browser.
+            - list [ref=e456]:
+              - listitem [ref=e457]:
+                - link "Background Remover":
+                  - /url: https://www.capcut.com/tools/image-background-remover
+                  - img "Background Remover" [ref=e459] [cursor=pointer]
+                - heading "Background Remover" [level=4]
+                - paragraph:
+                  - link "Remove image backgrounds":
+                    - /url: https://www.capcut.com/tools/image-background-remover
+                  - text: instantly with AI in one click. No watermark required—perfect for product photos, portraits, and social media content.
+              - listitem [ref=e460]:
+                - link "Image Enhancer":
+                  - /url: https://www.capcut.com/tools/image-resolution-enhancer
+                  - img "Image Enhancer" [ref=e462] [cursor=pointer]
+                - heading "Image Enhancer" [level=4]
+                - paragraph:
+                  - link "Enhance photo quality and resolution":
+                    - /url: https://www.capcut.com/tools/image-resolution-enhancer
+                  - text: with AI. Turn everyday images into sharp, high-quality visuals ready for social media, marketing, or professional use.
+              - listitem [ref=e463]:
+                - link "Image Resizer":
+                  - /url: https://www.capcut.com/tools/online-image-resizer
+                  - img "Image Resizer" [ref=e465] [cursor=pointer]
+                - heading "Image Resizer" [level=4]
+                - paragraph:
+                  - link "Resize images online":
+                    - /url: https://www.capcut.com/tools/online-image-resizer
+                  - text: for free with AI. Adjust dimensions and aspect ratios quickly for social media, websites, ads, and digital content.
+              - listitem [ref=e466]:
+                - link "Photo Editor":
+                  - /url: https://www.capcut.com/tools/online-photo-editor
+                  - img "Photo Editor" [ref=e468] [cursor=pointer]
+                - heading "Photo Editor" [level=4]
+                - paragraph:
+                  - link "Edit photos online":
+                    - /url: https://www.capcut.com/tools/online-photo-editor
+                  - text: for free with smart cropping, filters, and advanced effects—no downloads needed, directly in your browser.
+        - listitem [ref=e469] [cursor=pointer]:
+          - generic [ref=e470]: "02"
+          - generic:
+            - generic:
+              - heading "Video" [level=3]
+              - list:
+                - listitem:
+                  - heading "Online Video Editor" [level=4]:
+                    - link "Online Video Editor" [ref=e471]:
+                      - /url: https://www.capcut.com/tools/online-video-editor
+                  - paragraph:
+                    - generic:
+                      - link "Free Online Video Editor":
+                        - /url: https://www.capcut.com/tools/online-video-editor
+                      - text: with AI – Cut, Trim, Add Transitions & Subtitles, Export HD Videos Without Watermark for YouTube, TikTok & Reels
+                - listitem:
+                  - heading "Remove Video Background" [level=4]:
+                    - link "Remove Video Background":
+                      - /url: https://www.capcut.com/tools/video-background-remover
+                  - paragraph:
+                    - generic:
+                      - link "AI Video Background Remover":
+                        - /url: https://www.capcut.com/tools/video-background-remover
+                      - text: Online Free – Remove Background from Video in One Click, No Watermark, Perfect for TikTok, Reels & Ads
+                - listitem:
+                  - heading "Video Converter" [level=4]:
+                    - link "Video Converter":
+                      - /url: https://www.capcut.com/tools/online-video-converter
+                  - paragraph:
+                    - generic:
+                      - link "Free Video Converter Online":
+                        - /url: https://www.capcut.com/tools/online-video-converter
+                      - text: – Convert Video to MP4, MOV, AVI & More Without Losing Quality or Watermark, Fast & Easy to Use
+                - listitem:
+                  - heading "Add Subtitles to Video" [level=4]:
+                    - link "Add Subtitles to Video":
+                      - /url: https://www.capcut.com/tools/add-subtitles-to-video
+                  - paragraph:
+                    - generic:
+                      - link "AI Auto Subtitle Generator":
+                        - /url: https://www.capcut.com/tools/add-subtitles-to-video
+                      - text: Online Free – Add Accurate Automatic Captions to Videos in Multiple Languages, No Watermark
+            - list:
+              - listitem:
+                - link "Online Video Editor":
+                  - /url: https://www.capcut.com/tools/online-video-editor
+                  - generic:
+                    - img "Online Video Editor"
+                - heading "Online Video Editor" [level=4]
+                - paragraph:
+                  - link "Free Online Video Editor":
+                    - /url: https://www.capcut.com/tools/online-video-editor
+                  - text: with AI – Cut, Trim, Add Transitions & Subtitles, Export HD Videos Without Watermark for YouTube, TikTok & Reels
+              - listitem:
+                - link "Remove Video Background":
+                  - /url: https://www.capcut.com/tools/video-background-remover
+                  - generic:
+                    - img "Remove Video Background"
+                - heading "Remove Video Background" [level=4]
+                - paragraph:
+                  - link "AI Video Background Remover":
+                    - /url: https://www.capcut.com/tools/video-background-remover
+                  - text: Online Free – Remove Background from Video in One Click, No Watermark, Perfect for TikTok, Reels & Ads
+              - listitem:
+                - link "Video Converter":
+                  - /url: https://www.capcut.com/tools/online-video-converter
+                  - generic:
+                    - img "Video Converter"
+                - heading "Video Converter" [level=4]
+                - paragraph:
+                  - link "Free Video Converter Online":
+                    - /url: https://www.capcut.com/tools/online-video-converter
+                  - text: – Convert Video to MP4, MOV, AVI & More Without Losing Quality or Watermark, Fast & Easy to Use
+              - listitem:
+                - link "Add Subtitles to Video":
+                  - /url: https://www.capcut.com/tools/add-subtitles-to-video
+                  - generic:
+                    - img "Add Subtitles to Video"
+                - heading "Add Subtitles to Video" [level=4]
+                - paragraph:
+                  - link "AI Auto Subtitle Generator":
+                    - /url: https://www.capcut.com/tools/add-subtitles-to-video
+                  - text: Online Free – Add Accurate Automatic Captions to Videos in Multiple Languages, No Watermark
+        - listitem [ref=e472] [cursor=pointer]:
+          - generic [ref=e473]: "03"
+          - generic:
+            - generic:
+              - heading "Text & Audio" [level=3]
+              - list:
+                - listitem:
+                  - heading "Text to Speech" [level=4]:
+                    - link "Text to Speech" [ref=e474]:
+                      - /url: https://www.capcut.com/tools/text-to-speech
+                  - paragraph:
+                    - generic:
+                      - link "Text to Speech Online Free":
+                        - /url: https://www.capcut.com/tools/text-to-speech
+                      - text: – Convert Text to Natural AI Voice in English, Create Fast, Realistic Voiceovers for Videos Without Recording
+                - listitem:
+                  - heading "Extract Audio" [level=4]:
+                    - link "Extract Audio":
+                      - /url: https://www.capcut.com/tools/online-audio-extractor
+                  - paragraph:
+                    - generic:
+                      - link "Extract Audio from Video":
+                        - /url: https://www.capcut.com/tools/online-audio-extractor
+                      - text: Online Free – Convert Video to MP3 or WAV in High Quality, Fast Processing, Easy to Use and No Watermark
+                - listitem:
+                  - heading "Remove Noise" [level=4]:
+                    - link "Remove Noise":
+                      - /url: https://www.capcut.com/tools/remove-background-noise-from-audio
+                  - paragraph:
+                    - generic:
+                      - link "Remove Background Noise from Audio":
+                        - /url: https://www.capcut.com/tools/remove-background-noise-from-audio
+                      - text: Online Free – Clean Up Video Sound with AI, Reduce Static and Improve Audio Quality Instantly
+                - listitem:
+                  - heading "Enhance Voice" [level=4]:
+                    - link "Enhance Voice":
+                      - /url: https://www.capcut.com/tools/voice-enhancer
+                  - paragraph:
+                    - generic:
+                      - link "Enhance Voice Online":
+                        - /url: https://www.capcut.com/tools/voice-enhancer
+                      - text: with AI Free – Improve Clarity, Boost Volume and Refine Vocal Quality for Videos, Podcasts and Recordings Instantly
+            - list:
+              - listitem:
+                - link "Text to Speech":
+                  - /url: https://www.capcut.com/tools/text-to-speech
+                  - generic:
+                    - img "Text to Speech"
+                - heading "Text to Speech" [level=4]
+                - paragraph:
+                  - link "Text to Speech Online Free":
+                    - /url: https://www.capcut.com/tools/text-to-speech
+                  - text: – Convert Text to Natural AI Voice in English, Create Fast, Realistic Voiceovers for Videos Without Recording
+              - listitem:
+                - link "Extract Audio":
+                  - /url: https://www.capcut.com/tools/online-audio-extractor
+                  - generic:
+                    - img "Extract Audio"
+                - heading "Extract Audio" [level=4]
+                - paragraph:
+                  - link "Extract Audio from Video":
+                    - /url: https://www.capcut.com/tools/online-audio-extractor
+                  - text: Online Free – Convert Video to MP3 or WAV in High Quality, Fast Processing, Easy to Use and No Watermark
+              - listitem:
+                - link "Remove Noise":
+                  - /url: https://www.capcut.com/tools/remove-background-noise-from-audio
+                  - generic:
+                    - img "Remove Noise"
+                - heading "Remove Noise" [level=4]
+                - paragraph:
+                  - link "Remove Background Noise from Audio":
+                    - /url: https://www.capcut.com/tools/remove-background-noise-from-audio
+                  - text: Online Free – Clean Up Video Sound with AI, Reduce Static and Improve Audio Quality Instantly
+              - listitem:
+                - link "Enhance Voice":
+                  - /url: https://www.capcut.com/tools/voice-enhancer
+                  - generic:
+                    - img "Enhance Voice"
+                - heading "Enhance Voice" [level=4]
+                - paragraph:
+                  - link "Enhance Voice Online":
+                    - /url: https://www.capcut.com/tools/voice-enhancer
+                  - text: with AI Free – Improve Clarity, Boost Volume and Refine Vocal Quality for Videos, Podcasts and Recordings Instantly
+        - listitem [ref=e475] [cursor=pointer]:
+          - generic [ref=e476]: "04"
+          - generic:
+            - generic:
+              - heading "Creative Templates" [level=3]
+              - list:
+                - listitem:
+                  - heading "Reels & TikTok Templates" [level=4]:
+                    - link "Reels & TikTok Templates" [ref=e477]:
+                      - /url: https://www.capcut.com/template/social/tiktok-reels
+                  - paragraph:
+                    - generic:
+                      - link "Reels & TikTok Video Templates":
+                        - /url: https://www.capcut.com/template/social/tiktok-reels
+                      - text: – Edit Viral Short Videos with Modern Designs, Customize Text, Music and Effects in Minutes
+                - listitem:
+                  - heading "Social Media Templates" [level=4]:
+                    - link "Social Media Templates":
+                      - /url: https://www.capcut.com/template/social
+                  - paragraph:
+                    - generic:
+                      - link "Social Media Video Templates":
+                        - /url: https://www.capcut.com/template/social
+                      - text: – Create Engaging Videos for Instagram, Facebook and TikTok with Ready-to-Use Designs and AI Editing
+                - listitem:
+                  - heading "AI Effects Templates" [level=4]:
+                    - link "AI Effects Templates":
+                      - /url: https://www.capcut.com/template/effects
+                  - paragraph:
+                    - generic:
+                      - link "AI Video Templates Online":
+                        - /url: https://www.capcut.com/template/effects
+                      - text: – Turn Photos and Clips into Dynamic Videos with Smart Transitions, Music and Auto Effects Instantly
+                - listitem:
+                  - heading "Business Templates" [level=4]:
+                    - link "Business Templates":
+                      - /url: https://www.capcut.com/template/business
+                  - paragraph:
+                    - generic:
+                      - link "Business Templates":
+                        - /url: https://www.capcut.com/template/business
+                      - text: Free – Create Promo Videos, Ads and Professional Content with Customizable Designs and High Quality Export
+            - list:
+              - listitem:
+                - link "Reels & TikTok Templates":
+                  - /url: https://www.capcut.com/template/social/tiktok-reels
+                  - generic:
+                    - img "Reels & TikTok Templates"
+                - heading "Reels & TikTok Templates" [level=4]
+                - paragraph:
+                  - link "Reels & TikTok Video Templates":
+                    - /url: https://www.capcut.com/template/social/tiktok-reels
+                  - text: – Edit Viral Short Videos with Modern Designs, Customize Text, Music and Effects in Minutes
+              - listitem:
+                - link "Social Media Templates":
+                  - /url: https://www.capcut.com/template/social
+                  - generic:
+                    - img "Social Media Templates"
+                - heading "Social Media Templates" [level=4]
+                - paragraph:
+                  - link "Social Media Video Templates":
+                    - /url: https://www.capcut.com/template/social
+                  - text: – Create Engaging Videos for Instagram, Facebook and TikTok with Ready-to-Use Designs and AI Editing
+              - listitem:
+                - link "AI Effects Templates":
+                  - /url: https://www.capcut.com/template/effects
+                  - generic:
+                    - img "AI Effects Templates"
+                - heading "AI Effects Templates" [level=4]
+                - paragraph:
+                  - link "AI Video Templates Online":
+                    - /url: https://www.capcut.com/template/effects
+                  - text: – Turn Photos and Clips into Dynamic Videos with Smart Transitions, Music and Auto Effects Instantly
+              - listitem:
+                - link "Business Templates":
+                  - /url: https://www.capcut.com/template/business
+                  - generic:
+                    - img "Business Templates"
+                - heading "Business Templates" [level=4]
+                - paragraph:
+                  - link "Business Templates":
+                    - /url: https://www.capcut.com/template/business
+                  - text: Free – Create Promo Videos, Ads and Professional Content with Customizable Designs and High Quality Export
+    - generic [ref=e478]:
+      - generic [ref=e479]:
+        - generic [ref=e480]:
+          - heading "Templates for Everything" [level=2] [ref=e481]
+          - paragraph [ref=e482]: From AI-generated designs to timeless classics, find the perfect one-click start for any video on CapCut.
+        - button "Try online" [ref=e483] [cursor=pointer]
+      - list [ref=e484]:
+        - listitem [ref=e485]:
+          - link "873K" [ref=e486] [cursor=pointer]:
+            - /url: https://www.capcut.com/activity/download_pc
+        - listitem [ref=e489]:
+          - link "934K" [ref=e490] [cursor=pointer]:
+            - /url: https://www.capcut.com/activity/download_pc
+        - listitem [ref=e493]:
+          - link "293K" [ref=e494] [cursor=pointer]:
+            - /url: https://www.capcut.com/activity/download_pc
+        - listitem [ref=e497]:
+          - link "129K" [ref=e498] [cursor=pointer]:
+            - /url: https://www.capcut.com/activity/download_pc
+        - listitem [ref=e501]:
+          - link "243K" [ref=e502] [cursor=pointer]:
+            - /url: https://www.capcut.com/activity/download_pc
+    - generic [ref=e505]:
+      - generic [ref=e506]:
+        - generic [ref=e507]:
+          - heading "Voice of Our Users" [level=2] [ref=e508]
+          - paragraph [ref=e509]: CapCut is loved worldwide for its easy and powerful video editing that helps creators produce amazing content quickly.
+        - button "Try online" [ref=e510] [cursor=pointer]
+      - list [ref=e511]:
+        - listitem [ref=e512]:
+          - generic [ref=e513]:
+            - paragraph: "\"The auto editing feature is like magic! I uploaded like 10 random clips from my trip and it put together a really nice summary video with music and everything. Saved me a ton of work!\""
+            - paragraph: Sarah Johnson
+        - listitem [ref=e515]:
+          - generic [ref=e516]:
+            - paragraph: "\"Had to write a review just for the templates. It's not just a bunch of cookie-cutter designs, either. I love that I can pick a classic, clean one or let the AI generate something totally unique for my project. Never starting from a blank screen again.\""
+            - paragraph: Olivia Turner
+        - listitem [ref=e518]:
+          - generic [ref=e519]:
+            - paragraph: "\"It's super stable, never crashes mid-edit. The basic tools are all there and easy to find, trimming is easy, the controls actually make sense. Honestly just a solid tool that does the job perfectly.\""
+            - paragraph: PixelPantry
+        - listitem [ref=e521]:
+          - generic [ref=e522]:
+            - paragraph: "\"Wasn't sure what to expect from the image generator, but it totally surprised me. Got a custom background for my vlog in no time, and it actually looked awesome.\""
+            - paragraph: Jayden_M
+      - list [ref=e524]:
+        - listitem [ref=e525]:
+          - generic [ref=e526]: 100M +
+          - generic [ref=e527]: Downloads
+        - listitem [ref=e528]:
+          - generic [ref=e529]: 100K +
+          - generic [ref=e530]: Creators
+        - listitem [ref=e531]:
+          - generic [ref=e532]: "4.7"
+          - generic [ref=e533]: App Store Ratings
+        - listitem [ref=e534]:
+          - generic [ref=e535]: 20 +
+          - generic [ref=e536]: Languages
+  - contentinfo [ref=e537]:
+    - generic [ref=e538]:
+      - generic [ref=e539]:
+        - list [ref=e540]:
+          - listitem [ref=e541]:
+            - paragraph [ref=e542]: Products
+            - list [ref=e543]:
+              - listitem [ref=e544]:
+                - link "CapCut Desktop" [ref=e545] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/desktop-video-editor
+              - listitem [ref=e546]:
+                - link "CapCut Online" [ref=e547] [cursor=pointer]:
+                  - /url: https://www.capcut.com/creative-suite
+              - listitem [ref=e548]:
+                - link "CapCut Pad" [ref=e549] [cursor=pointer]:
+                  - /url: https://capcutpad.onelink.me/fNG5/vlcsovk6?utm_medium=CapCut
+              - listitem [ref=e550]:
+                - link "CapCut Mobile" [ref=e551] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/video-editing-app
+          - listitem [ref=e552]:
+            - paragraph [ref=e553]: AI Features
+            - list [ref=e554]:
+              - listitem [ref=e555]:
+                - link "AI image generator" [ref=e556] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-image-generator
+              - listitem [ref=e557]:
+                - link "AI video generator" [ref=e558] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-video-generator
+              - listitem [ref=e559]:
+                - link "AI dialogue scene" [ref=e560] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-dialogue-generator
+              - listitem [ref=e561]:
+                - link "AI Design" [ref=e562] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-design
+              - listitem [ref=e563]:
+                - link "AI Voice Generator" [ref=e564] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-voice-generator
+              - listitem [ref=e565]:
+                - link "Auto Caption Generator" [ref=e566] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-caption-generator
+              - listitem [ref=e567]:
+                - link "AI Art Generator" [ref=e568] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-art-generator
+              - listitem [ref=e569]:
+                - link "AI Logo Generator" [ref=e570] [cursor=pointer]:
+                  - /url: https://www.capcut.com/create/ai-logo-generator
+              - listitem [ref=e571]:
+                - link "Dreamina Seedance 2.0" [ref=e572] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/dreamina-seedance-2-0
+              - listitem [ref=e573]:
+                - link "Nano Banana Pro" [ref=e574] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/nano-banana-pro
+              - listitem [ref=e575]:
+                - link "Gemini Omni" [ref=e576] [cursor=pointer]:
+                  - /url: https://tools.capcut.com/tools/gemini-omni?utm_medium=CapCut
+          - listitem [ref=e577]:
+            - paragraph [ref=e578]: Image & Video
+            - list [ref=e579]:
+              - listitem [ref=e580]:
+                - link "Remove Background" [ref=e581] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/image-background-remover
+              - listitem [ref=e582]:
+                - link "Transparent Background" [ref=e583] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/transparent-background-maker
+              - listitem [ref=e584]:
+                - link "Image Upscaler" [ref=e585] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-image-upscaler
+              - listitem [ref=e586]:
+                - link "Meme Maker" [ref=e587] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/meme-generator
+              - listitem [ref=e588]:
+                - link "Convert Video To MP4" [ref=e589] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/convert-mov-to-mp4
+              - listitem [ref=e590]:
+                - link "Transcribe Video To Text" [ref=e591] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/video-to-text
+              - listitem [ref=e592]:
+                - link "Compress Video" [ref=e593] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/free-video-compressor
+              - listitem [ref=e594]:
+                - link "AI Text Remover" [ref=e595] [cursor=pointer]:
+                  - /url: https://www.capcut.com/create/ai-text-remover
+              - listitem [ref=e596]:
+                - link "AI People Remover" [ref=e597] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/ai-people-remover
+              - listitem [ref=e598]:
+                - link "AI Inpainting" [ref=e599] [cursor=pointer]:
+                  - /url: https://www.capcut.com/create/image-inpainting
+              - listitem [ref=e600]:
+                - link "Face Cutout" [ref=e601] [cursor=pointer]:
+                  - /url: https://www.capcut.com/tools/face-cutout
+          - listitem [ref=e602]:
+            - paragraph [ref=e603]: Discover
+            - list [ref=e604]:
+              - listitem [ref=e605]:
+                - link "Affiliates" [ref=e606] [cursor=pointer]:
+                  - /url: https://www.capcut.com/partners/affiliate-program
+              - listitem [ref=e607]:
+                - link "Pioneer Program" [ref=e608] [cursor=pointer]:
+                  - /url: https://www.capcut.com/newsroom/pioneer-program
+              - listitem [ref=e609]:
+                - link "Creative Partner Program" [ref=e610] [cursor=pointer]:
+                  - /url: https://www.capcut.com/newsroom/capcut-creative-partner-program
+              - listitem [ref=e611]:
+                - link "CapCut Creative Campus" [ref=e612] [cursor=pointer]:
+                  - /url: https://www.capcut.com/newsroom/capcut-creative-campus
+          - listitem [ref=e613]:
+            - paragraph [ref=e614]: Company
+            - list [ref=e615]:
+              - listitem [ref=e616]:
+                - link "Blog" [ref=e617] [cursor=pointer]:
+                  - /url: https://www.capcut.com/blog
+              - listitem [ref=e618]:
+                - link "Help Center" [ref=e619] [cursor=pointer]:
+                  - /url: https://www.capcut.com/help
+              - listitem [ref=e620]:
+                - link "Newsroom" [ref=e621] [cursor=pointer]:
+                  - /url: https://www.capcut.com/newsroom
+              - listitem [ref=e622]:
+                - link "Community" [ref=e623] [cursor=pointer]:
+                  - /url: https://discord.com/inhttps://discord.com/invite/UGkTx28Eqhvite/UGkTx28Eqh?utm_medium=CapCut
+              - listitem [ref=e624]:
+                - link "Trust Center" [ref=e625] [cursor=pointer]:
+                  - /url: https://www.capcut.com/trust
+              - listitem [ref=e626]:
+                - link "About CapCut's Terms of Service" [ref=e627] [cursor=pointer]:
+                  - /url: https://www.capcut.com/resource/about-capcut-terms-of-service
+        - generic [ref=e628]:
+          - paragraph [ref=e632]: AI-Powered Video Editor for Everyone
+          - list [ref=e633]:
+            - listitem [ref=e634]:
+              - link "TikTok" [ref=e635] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@capcut
+            - listitem [ref=e637]:
+              - link "YouTube" [ref=e638] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/CapCutofficial
+            - listitem [ref=e640]:
+              - link "Instagram" [ref=e641] [cursor=pointer]:
+                - /url: https://www.instagram.com/capcutapp/
+            - listitem [ref=e643]:
+              - link "Facebook" [ref=e644] [cursor=pointer]:
+                - /url: https://www.facebook.com/capcutapp/
+          - button "English" [ref=e647] [cursor=pointer]
+      - generic [ref=e652]:
+        - list [ref=e653]:
+          - listitem [ref=e654]:
+            - link "Terms of Service" [ref=e655] [cursor=pointer]:
+              - /url: https://www.capcut.com/clause/terms-of-service?store_region=&lang=en
+          - listitem [ref=e656]:
+            - link "Privacy Policy" [ref=e657] [cursor=pointer]:
+              - /url: https://www.capcut.com/clause/privacy-policy?store_region=&lang=en
+          - listitem [ref=e658]:
+            - link "Cookies Policy" [ref=e659] [cursor=pointer]:
+              - /url: https://www.capcut.com/clause/cookies-policy?store_region=&lang=en
+          - listitem [ref=e660]:
+            - link "License Agreement" [ref=e661] [cursor=pointer]:
+              - /url: https://www.capcut.com/clause/material-license-agreement?store_region=&lang=en
+          - listitem [ref=e662]:
+            - link "Creator Terms of Service" [ref=e663] [cursor=pointer]:
+              - /url: https://www.capcut.com/clause/creator-agreement?store_region=&lang=en
+          - listitem [ref=e664]:
+            - link "Digital Services Act" [ref=e665] [cursor=pointer]:
+              - /url: https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/terms-policy/dsa_compliance_webpage.html
+          - listitem [ref=e666]:
+            - link "Community Guidelines" [ref=e667] [cursor=pointer]:
+              - /url: https://www.capcut.com/clause/community-guideline?store_region=&lang=en
+          - listitem [ref=e668]:
+            - link "Your Privacy Choices" [ref=e669] [cursor=pointer]:
+              - /url: https://www.capcut.com/clause/privacy-policy?store_region=&lang=en
+        - generic [ref=e670]:
+          - text: "Link Products:"
+          - list [ref=e671]:
+            - listitem [ref=e672]:
+              - link "Lark" [ref=e673] [cursor=pointer]:
+                - /url: https://www.larksuite.com/?utm_source=seo_external_link_cc
+  - button "Edit smarter, create faster Try online for free" [ref=e676] [cursor=pointer]:
+    - generic [ref=e677]: Edit smarter, create faster
+    - button "Try online for free" [ref=e683]
